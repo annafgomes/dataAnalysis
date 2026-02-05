@@ -14,7 +14,7 @@ I hold a **Bachelor’s degree in Computer Science**, with a focus on **data ana
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🔗 Hotel Revenue Analysis](https://github.com/annafgomes/dataAnalysis/tree/main/hotel-revenue-analysis) | Data analysis applied to the hospitality sector to understand **revenue, bookings, cancellations, and seasonality**, supporting business decision-making. | Power BI, SQL |
+| [🔗 Hotel Revenue Analysis](https://github.com/annafgomes/dataAnalysis/blob/main/hotel-revenue-analysis/README.en.md) | Data analysis applied to the hospitality sector to understand **revenue, bookings, cancellations, and seasonality**, supporting business decision-making. | Power BI, SQL |
 
 ---
 
