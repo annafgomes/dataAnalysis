@@ -9,7 +9,9 @@
 Projeto de **Análise de Dados e Business Intelligence** aplicado ao setor hoteleiro, utilizando **SQL Server** para modelagem e preparação dos dados e **Power BI** para visualização e análise exploratória.
 
 O objetivo é entender padrões de **reservas**, **cancelamentos**, **receita**, **sazonalidade** e **perfil dos clientes** apoiando decisões estratégicas de negócio.
+
 Observou-se a necessidade de analisar com mais detalhes o cancelamento, visto que a taxa de cancelamento passa dos 20%. 
+
 ---
 
 ## 🎯 Objetivo do Projeto
